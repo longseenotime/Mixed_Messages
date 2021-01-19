@@ -1,4 +1,4 @@
-const jokeHeads = [];
+const jokeHeads = ['Knock, knock ', ];
 const jokeBodies = [];
 const inspiringHeads = [];
 const inspiringBodies = [];
